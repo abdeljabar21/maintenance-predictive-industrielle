@@ -1,7 +1,9 @@
 # 🏭 Système de Maintenance Prédictive Industrielle
 
-## Description
-Système IoT complet de maintenance prédictive pour industrie cimentière (Lafarge Meknès).
-Détecte les anomalies machines AVANT la panne grâce à l'intelligence artificielle.
+## 📋 Description
+Système IoT complet de maintenance prédictive pour industrie cimentière.
+Détecte automatiquement les anomalies machines **avant la panne** grâce à l'IA.
 
-## Architecture
+Projet réalisé dans le cadre du stage PFA — **Lafarge Meknès**.
+
+## 🏗️ Architecture complète

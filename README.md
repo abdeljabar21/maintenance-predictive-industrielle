@@ -86,7 +86,6 @@ Le modèle **Isolation Forest** analyse en temps réel :
 
 ##  Cas d'usage industriel
 
-Dans une cimenterie comme Lafarge Meknès, ce système permet :
 - Détecter la dégradation d'un roulement **48-72h avant la panne**
 - Éviter les arrêts de production non planifiés
 - Réduire les coûts de maintenance corrective
